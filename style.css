@@ -1,0 +1,65 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(51, 4, 92);
+  display: flexbox;
+}
+center {
+  font-size: 70px;
+  color: white;
+}
+.all {
+  display: block;   
+  margin: 10% auto;
+}
+.all button {
+  height: 210px;
+  margin: 5px;
+  width: 210px;
+  font-size: 60px;
+  border: 10px solid white;
+  border-radius: 20px;
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.w-button {
+  background: url(1.jpg);
+  background-size: cover;
+}
+.a-button {
+  background: url(3.jpg);
+  background-size: cover;
+}
+.s-button {
+  background: url(2.png);
+  background-size: cover;
+}
+.d-button {
+  background: url(4.jpg);
+  background-size: cover;
+}
+.j-button {
+  background: url(5.jpg);
+  background-size: cover;
+}
+.k-button {
+  background: url(6.jpg);
+  background-size: cover;
+}
+.l-button {
+  background: url(7.jpg);
+  background-size: cover;
+}
